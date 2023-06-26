@@ -4,3 +4,10 @@ const logError = (errorMessage: string): void => {
 };
 
 logError("Default error message.");
+
+// Exemplo 02: Uso do void em variáveis
+let varExemploVoid: void;
+
+// varExemploVoid = 1;
+varExemploVoid = null;
+varExemploVoid = undefined;
