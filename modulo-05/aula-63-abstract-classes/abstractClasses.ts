@@ -45,7 +45,7 @@ class FuncionarioPJ extends Funcionario {
   }
 }
 
-const lukas = new FuncionarioCLT("Lukas", "Veiga", 5000);
+const lukas = new FuncionarioCLT("Lukas", "Veiga", 4000);
 const joao = new FuncionarioPJ("João", "Silva", 150, 40);
 console.log(lukas.emitirContraCheque());
 console.log(joao.emitirContraCheque());
