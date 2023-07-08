@@ -21,7 +21,7 @@ Repositório para acompanhar o curso [TypeScript - Zero to Hero](https://www.you
 - ✅ Módulo 6: Interfaces
 - ✅ Módulo 7: Tipos Avançados & Novos Operadores
 - ✅ Módulo 8: Generics
-- [ ]Módulo 9: Módulos
+- ✅ Módulo 9: Módulos
 - [ ]Módulo 10: TypeScript em Node.js
 
 ## ❗️ Links & Recursos Importantes
