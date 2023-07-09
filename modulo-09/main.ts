@@ -11,3 +11,4 @@ if (emailValidator.isValid(email)) {
 
 let zipCode = "58052-315";
 let zipCodeValidator = new ZipCodeValidator();
+console.log(zipCodeValidator.isValid(zipCode));
